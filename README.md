@@ -26,9 +26,6 @@ Software Engineer at Wipro Technologies | Backend Developer in Java & Spring Boo
 
 **Talking about Personal Stuffs:**
 
-- 🛠️ Data Structures and Algorithms;
-- 💻 Competitive Programmer (**Specialist on CodeForces**, **4 :star: on CodeChef**);
-- :book: Currently working on Building and Deploying containerised applications;
 - 📫 How to reach me: [Ashwin Singh Rathore](https://linkedin.com/in/ashwin-singh-rathore);
 
 # 🌐 Socials
