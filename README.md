@@ -52,7 +52,7 @@ Software Engineer at Wipro Technologies | Backend Developer in Java & Spring Boo
 # 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 # 🔧 Tools Used
