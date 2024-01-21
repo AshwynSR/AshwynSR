@@ -62,7 +62,6 @@ Software Engineer at Wipro Technologies | Backend Developer in Java & Spring Boo
 
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshwynSR&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="AshwynSR" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AshwynSR&show_icons=true&locale=en&theme=chartreuse-dark" alt="AshwynSR" width="410" /></p>
 <br><br><br><br><br>
 <hr>
 
