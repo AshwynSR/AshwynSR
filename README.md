@@ -25,7 +25,7 @@ Software Engineer at Wipro Technologies | Backend Developer in Java & Spring Boo
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="170" />
 
 **Talking about Personal Stuffs:**
-
+- 🔭 I'm currently working on deepening my backend skills in security, with a focus on authentication and authorization using JWT and Auth0 within the Spring Boot framework.
 - 📫 How to reach me: [Ashwin Singh Rathore](https://linkedin.com/in/ashwin-singh-rathore);
 
 # 🌐 Socials
@@ -60,6 +60,11 @@ Software Engineer at Wipro Technologies | Backend Developer in Java & Spring Boo
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshwynSR&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="AshwynSR" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AshwynSR&show_icons=true&locale=en&theme=chartreuse-dark" alt="AshwynSR" width="410" /></p>
+<br><br><br><br><br>
+<hr>
 
 ### ✍️ Random Dev Quote
 
